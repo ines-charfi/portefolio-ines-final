@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ExternalLink, Github, Code, Palette, ShoppingCart, Users, HeartPulse, Home, Calendar, Globe } from 'lucide-react';
 
 const Projects = () => {
